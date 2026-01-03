@@ -9,5 +9,6 @@ defaults:
   - scope:
       path: ""
     values:
+      layout: single
       sidebar:
         nav: "main"
