@@ -1,2 +1,5 @@
 # danielpollak.github.io
 A personal blog with version control so you can see how posts change
+
+
+© 2026 Daniel Pollak. All rights reserved.
