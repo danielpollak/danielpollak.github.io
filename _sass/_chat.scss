@@ -1,26 +1,27 @@
-.chat {
+.dialogue {
   max-width: 700px;
   margin: 2rem auto;
 }
 
 .bubble {
-  padding: 0.6rem 0.9rem;
-  border-radius: 14px;
-  margin: 0.4rem 0;
-  display: inline-block;
-  max-width: 80%;
+  padding: 0.75rem 1rem;
+  margin: 0.5rem 0;
+  border-radius: 16px;
+  max-width: 75%;
   line-height: 1.4;
+  display: inline-block;
+  word-wrap: break-word;
 }
 
-.left {
+/* Left-side bubble (default) */
+.bubble.left {
   background: #f1f1f1;
-  color: #000;
-  border-bottom-left-radius: 4px;
+  margin-right: auto;  /* pushes bubble to the left */
 }
 
-.right {
-  background: #007aff;
-  color: #fff;
-  border-bottom-right-radius: 4px;
-  margin-left: auto;
+/* Right-side bubble (your speaker) */
+.bubble.right {
+  background: #cfe9ff;
+  margin-left: auto;   /* pushes bubble to the right */
+  text-align: left;    /* keeps text normal, not reversed */
 }
