@@ -5,7 +5,7 @@ sidebar: true
 
 # Daniel Pollak
 
-PhD student in neuroscience at Catelch
+PhD student in neuroscience at Caltech
 
 
 
