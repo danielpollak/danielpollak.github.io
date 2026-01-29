@@ -1,0 +1,7 @@
+<div class="chat">
+  {% for msg in include.messages %}
+    <div class="bubble {{ msg.side }}">
+      {{ msg.text | markdownify }}
+    </div>
+  {% endfor %}
+</div>
