@@ -1,5 +1,5 @@
 ---
-title: "lorem ipsum"
+title: "What scientific outreach is for"
 layout: single
 ---
 
