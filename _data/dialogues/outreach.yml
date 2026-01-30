@@ -59,7 +59,7 @@
   text: > 
       In the way I think about these things, they're two timescales for the same thing. Mentoring usually occurs over a longer period than outreach (for example, my PI is mentoring me over the course of going on five years now), whereas outreach feels shorter. Ideally, outreach and mentorship should coalesce. They are intended to bring about the next generation of scientists, either by inspiring young minds through short engagements ("outreach") or by taking on a long-term commitment to guide the development of a young scientist ("mentorship"). I feel like 2) is an example of something too long to be called outreach and too short to be mentorship, and illustrates the equivalence of these terms.
     
-- side:left
+- side: left
   text: >
     So up to this point you've tried and failed to lead the neuroscience community at Caltech towards more outreach, community engagement, etc, and now you've realized that you could have just been contributing to an existing initiative with existing connections to the communuty all along. Is that what you're telling me?
 
@@ -73,7 +73,7 @@
 
     They had transitioned into a belief that change on the part of an individual community member must occur through dedicated hard work in a lab with a dedicated mentor. In othe words, outreach/mentorship should probably involve intensive training, and laypeople seriously outnumber working scientists.
     
-- side:left
+- side: left
   text: >
     Ok, say for example I am a fellow scientist. I am interested in getting my next job. If I'm a grad student, I want to get a postdoc. If I'm a postdoc, I want to get a faculty position. Outreach is nice. Bit of a luxury. But I get it, it's good to communicate with the public about your work. I am funded by grants from the NIH and NSF, and people deserve to know what their tax dollars go towards. Right? Though I don't think I have a responsibility to train the next generation per se. I just need to do good science, and the institution of academia has mechanisms for reproducing scientists.
     
