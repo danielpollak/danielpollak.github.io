@@ -1,11 +1,93 @@
+- side: right
+  text: >
+    More out of an interest in experimenting than out of a particular vision of this post, I thought it would be cool to make a format for blogs in the style of a  Socratic dialogue for modern times: an iMessages chat log. Perhaps it also came out of the fact that this and every other time I feel like I'd like to make a blog post, it comes out of a conversation or conversations. In this, case I've been talking with several people about doing scientific outreach. 
+
+  text: > But first some quick background: I was lucky to be in a lab in high school, it gave me a competitive advantage for getting into college, and my impressionable young self was very impressed by the world-weary twenty-something grad students who were mentoring me in the lab. I imprinted on them like a gosling. When it came time to apply to graduate school, I had already oriented by undergraduate experience such that I would be successful. I was discomfited that access to this kind of mentorship in America was granted to me because of my class and probably several other dimensions of privilege. People from underprivileged populations not only have never met a scientist, they often do not even know about the possibility of going to graduate school at all. So academia is available to talented young people who also have the privilege of knowing the right people, who tell them what the tricks are to get into this club, and I found (and still) this to be a completely unacceptable state of affairs. I still meet Pasadena locals who think Caltech is Cal Poly Pomona. I wanted to do something about it, and outreach seemed like an institution I could use to that end. I've been doing outreach for a few years, and it's taken on a few different forms. In chronological order, here's what outreach has looked like to me. 
+    
+    
+  text: >
+    1) Through the Caltech Teaching, Learning, and Outreach (CTLO) office, I joined the Visiting Scientists program, where I Zoomed into a virtual third grade classroom during the pandemic, where I am my partner, Mister Jake, taught short-form lessons on topics in biology. Each lesson involved putting together a text document lesson plan with learning objectives. We also talked about our research, and the kids called me Mister Dan. They asked shockingly good questions about my research. It was quite a time commitment, so I stopped after a single quarter.
+    
+  text: >
+    2) I arrived on campus and decided I should try pioneering my own initiative. I applied for and got a grant for running a summer school, with the intention of getting middle school kids (again, over Zoom) to become miniature autonomous scientists. With the grant funds, I bought equipment from Backyard Brains and distributed them through an office at Pasadena City College to the kids houses (it was still the pandemic). Then, for six weeks in the summer, myself and a few collaborators tried to get the kids to come up with their own experiments, run them, analyze the data, and present their results. At the end, I had the idea that these kids would be miniature scientists, capable of running their own research programs with their Backyard Brains Spikerboxes. I was flush with probably rather unrealistic ideals about citizen science, openness, and the capacity for laypeople to become investigators. I wish I could have written blogs from this time period, because I think my naive and idealistic perspective would inspire me today. Grad school has clearly faded this spark in myself a bit. Actually there is a publication from this time, which I will reference below. Anyway, it was a good experience, but altogether very hard to run, hard to keep the kids engaged. 
+
+    Because this was a grant from the school, I was obligated to give a presentation (over Zoom) to report on the outcomes. I reported that by pooling resources scrounged from Caltech (I made a call for old laptops from the Caltech community, which I "refurbished" by installing Linux and distributing to the kids) and getting a small group of people to help, we "transformed" the kids in our course into miniature scientists. I unabashedly invented a new dimensionless number, the mentor number, which estimated that the number of graduate students at Caltech and the number of students in the graduating class of the Pasadena Unified School District was about the same, resulting in a mentor number of 1: For each grad student at Caltech, there was one student in the PUSD who could be mentored by them. It was a call to action to make mentorship and outreach a more explicit part of being a scientist, at least at Caltech.
+    
+  text: >
+    3) After this DIY summer school, I realized that getting six tweens to do science over Zoom was probably a bit too hard, so I decided to try to do it again, but more in-person. I had wanted to generate a model of outreach where the boundaries between academia and the rest of us were made immaterial, where laypeople outside academia could come and collaborate with scientists to pursue their own interests.
+    
 - side: left
   text: >
-    Chat, we're cooked
+    Have any of the recipients of your outreach to this point in the story expressed a strong interest in the science you prescribed them?
 
 - side: right
   text: >
-    I've not read enough philosophy to be doing this
+    Candidly, no. But I did try to offer a range of topics: cockroach leg recordings, human EEG, human EMG, human EKG, and to guide students based on what they chose todo. But don't interrupt. 
+    
+  text: >
+    I ended up working with two kids from a nearby high school. One wanted to be a nurse and the other wanted to join the military. Both were from underrepresented groups in science. I tried to give them a crash course in neuroscience, experimentation, and data analysis. Sometimes they were more or less engaged than others. I learned it's really hard to assign journal article reading to high school kids. We met, the three of us, each Sunday outside the neuroscience building, and I'd bring a Backyard Brains neuron spikerbox. We would collect data from a roach leg (using a solenoid to consistently stimulate a disembodied leg with a magnet glued to it at 2-3 Hz), or analyze it, or try to put together a presentation. I sent out an email each week to the neuroscience grad students, asking people to come hang out do the experiment with us. My vision was that of a sort of science salon, attended by practitioners and laymen, where we could all breath the same heady air of discovery.
+    
+- side: left
+  text: >
+    Are you being for real right now?
+
+- side :right
+  text: >
+    Shut up, it's my blog. At the end, they entered the LA county Science and Engineering Fair and won third place or so in the neuroscience category. I have to be honest, I was disappointed that no one showed up except for a few times. Just, crickets.  Behaviors match incentives, and I had the wrong incentives. I didn't know what the right ones were, but I also began to struggle with the possibility that Caltech was not a place where people shared by attitude about making the world a better place through outreach and mentorship. 
 
 - side: left
   text: >
-    Isn't that already an evasion? Isn't that already an evasion? Isn't that already an evasion? Isn't that already an evasion?
+    Sounds like you were just a distracted grad student, getting lost in pointless side projects, while everyone else was trying to graduate and get out.
+  
+  text: >
+    4) I noticed doing community-based outreach + citizen science was really hard. It's hard to get random people in the community to care that much about a random, prescribed science experiment. So I turned back to the original model that got me into science: one-on-one mentoring. I had been mentoring a phenomenal Caltech undergrad for a while, but an opportunity came up to mentor a student from nearby PCC. This program was oriented particularly toward giving first-gen college students an other underrepresented minorities in science (URMs) an opportunity to work in a Caltech lab, and I thought Wow! This has everything- one on one mentoring, making science more equitable through the elevation of diverse students, and so on. Not much to say here: this student and I are still in contact, she transferred from PCC to a four-year program, and she's killing it. Overall, hats off. It's a lot of work to do this kind of mentoring, but good work if you can get it. This experience is one of the reasons I still have faith in the idea of doing mentoring/outreach.
+    
+  text: >
+    5) After a few years I got back into doing outreach, joining an already existing initiative: the Science Nights run by the CTLO, where Caltech kids would go to local public high schools and do demonstrations about whatever topic they wanted. This was honestly some of the best fun I've had doing outreach. Kids cycle around to your booth (or booths, as I went all out and had cockroach leg, eeg, and emg demos) and listened to your spiel about some topic, or better, got to engage with it by recording their EMGs, eliciting spikes from a cockroach leg, or everyone's favorite, controlling someone else's arm with your EMG signals. This by far was the most engagement I'd ever gotten from an outreach event. Crucially, this is the point where other neuroscience grad students were actually willing to come to these events, show off their neuroscience knowledge, and see kids' eyes light up. Incentives were beginning to come into alignment.
+
+- side: right
+  text: >
+    You're kind of mixing your terms here. How can you say "mentoring" + "/" + "outreach"? These are different things.
+
+- side: left
+  text: > 
+      In the way I think about these things, they're two timescales for the same thing. Mentoring usually occurs over a longer period than outreach (for example, my PI is mentoring me over the course of going on five years now), whereas outreach feels shorter. Ideally, outreach and mentorship should coalesce. They are intended to bring about the next generation of scientists, either by inspiring young minds through short engagements ("outreach") or by taking on a long-term commitment to guide the development of a young scientist ("mentorship"). I feel like 2) is an example of something too long to be called outreach and too short to be mentorship, and illustrates the equivalence of these terms.
+    
+- side:left
+  text: >
+    So up to this point you've tried and failed to lead the neuroscience community at Caltech towards more outreach, community engagement, etc, and now you've realized that you could have just been contributing to an existing initiative with existing connections to the communuty all along. Is that what you're telling me?
+
+- side: right
+  text: >
+    Yeah. Watch your tone.
+  
+  text: >
+    At this point, I noticed my beliefs about outreach had begun to shift, and I think that's why I wanted to write this blog post. Before, I had some real high-falutin' ideas about engendering a model of doing science that is rooted in the local community, where the local community is recruited to participate in research, inspired by some sociology readings I had done in undergrad. Noteably, this is not an existing model for doing experimental neuroscience, and probably with good reason.
+
+    They had transitioned into a belief that change on the part of an individual community member must occur through dedicated hard work in a lab with a dedicated mentor. In othe words, outreach/mentorship should probably involve intensive training, and laypeople seriously outnumber working scientists.
+    
+- side:left
+  text: >
+    Ok, say for example I am a fellow scientist. I am interested in getting my next job. If I'm a grad student, I want to get a postdoc. If I'm a postdoc, I want to get a faculty position. Outreach is nice. Bit of a luxury. But I get it, it's good to communicate with the public about your work. I am funded by grants from the NIH and NSF, and people deserve to know what their tax dollars go towards. Right? Though I don't think I have a responsibility to train the next generation per se. I just need to do good science, and the institution of academia has mechanisms for reproducing scientists.
+    
+- side: right
+  text: >
+    If you think of science as a career, sure. Treat it as a career. But it's strange to me that people pursue it as a career when there is ample demand and good-paying jobs for scientists in industry, whereas academia is low-pay, highly uncertain, and all for some prestigious title as a tenured professor. Interesting what lengths people will go to to attain prestige at the expense of well-being and money. But the point is, I think scientists may need to rethink what our role in society is. As a biologist, it seems like the American public views scientists as a scourge, a source of misinformation. People "do their own research" and decide not to vaccinate their babies. These people clearly are not friends with enough scientists. If they wanted to ask a scientist a question, they literally could not. If scientists play no role in society except to act in the interest of advancing their careers, that seems a bit empty to me. Other professions that give up worldly success include monks, priests, social workers, and teachers, and they have a concrete conception of themselves as being servants of society. But scientists often don't, and I find that to be strange.
+
+  text: >
+    Which is why I am trying yet another model of outreach this year
+    
+    6) Good old-fashioned public talks. When I sent out emails late last year about giving short form talks at bars, retirement homes, and public high schools, I got a flood of responses from other neuroscientists and neuro-adjacent friends and acquaintences. People are motivated as hell to get up in front of a bunch of strangers and talk about their science. No surprise- all scientists are constantly holding themselves back from telling you everything they've ever learned. I went into grad school highly skeptical of this kind of thing. It seemed self-aggrandizing, egotistical, and unlikely to truly serve the local community. There is essentially no reciprocity; whereas in community-centered citizen science outreach, both the citizens and the scientists learn from each other and the world together, thus making it a better place. About **what** they learn together, I have realized there is no good answer, at least for my field of study. But nonetheless it's a good ideal to aspire to. But in real life, it looks like society is relatively well-suited to accept a short form public lecture. It hasn't happened, yet, the first one will be in February at a retirement community in Altadena.
+
+side: left
+  text: >
+    So what, why's this better than the last kind?
+
+side: right
+  text: >
+    Dang, I was hoping you wouldn't ask me that. There are too many people who have never been exposed to scientists. They have no incentive to trust them or even see them as fellow human beings, unless they can go to a local bar and meet one. And they then vote people people who defund the NIH, who tell people that their chronic illnesses are curable with raw milk... I don't know. I haven't really thought it through. I've just realized I can't single-handedly make the world a more equitable place for people to do science. I just think people should do outreach more.
+
+    
+
+    
+    
