@@ -1,14 +1,32 @@
----
-title: "First post"
-date: 2026-01-03
-layout: single
-categories: [blog]
-tags: [neuroscience, notes]
----
+## Therapists are philosophers
+Dialogue seems to have been important for Socrates. He used it to disseminate and teach ideas, and to allow for ideas to be interrogated completely. A few years into psychotherapy, I realized that my sessions were also, when they were at their best, also dialogues. That made them Socratic. In addition, that made my therapist a teacher of philosophy. Based on her reaction when I told her this, I could tell she did not agree with this characterization. Fair enough, I believe her academic background is in pyschology and psychotherapy. I don't think most grad programs teach philosophy to psychology students. Nonetheless, I am often astonished that the field of pyschology and psychotherapy is only a hundred years old in its current form, and it produces such long, accomplished professionals with legitimate careers and financial stability. 
 
-This is my first post.
+## what is this?
+A question worth asking every so often. I'm sitting in a room with someone intently focusing on parsing my emotions, the stories I'm sharing, and offering insights, and managing their own emotions. That's what therapy is. And this person is trained to recognize and diagnose things in the DSM, and to offer advice in a therapeutic setting such as this. This person had to put in many hours of volunteer work, doing such sessions as a student, as part of their training as a psychologist. But this has only been around for a little over a hundred years. Freud was the first one who got the field going, and he was essentially succeeded by Jung and Adler, who each had their own very distinct approaches to doing the job of running a therapy session. 
 
-Markdown works as expected.
+From there, the field progressed to the point where people write cute little applications to get into clinical psychology programs where they can pay lots in tuition for a privilege of doing what Freud and all the rest of them did back then, sit in a chair and listen to you complain. It's lucrative stuff.
 
-## Section
-More text here.
+Now, the field has progressed from the pseudosicentific, deeply flawed initial state of the field, where psychoanalysts would take advantage of the vulnerability shown by their clients and who promulgated such ideas as hysteria and the penis envy for explaining the neuroticisms of women, and occasionally things like Nazism (oops!). So it's good that we have come together and made a consistent, nazi-free curriculum for psychology students. Well done.
+
+My sense about intellectuals from the turn of the century is that they were a lot more...well rounded? For example, Simone de Beauvoir's philosophicaly work The Second Sex is suffused with truly cutting-edge knowledge from well outside the realm of "philosophy" per se. She is fluent and current in the intricacies of research into fertilization in sea urchins, now considered to be a canonical model for fertilization in animals, as well as the ethnographies and anthropology of cultures around the world. It seems like "intellectuals" knew more than a little about almost everything. They reveled in salons because they had so darn much to talk about, and they could talk about it without feeling out of their depth.
+
+I feel like they had more time on their hands without the distractions of the internet, so they made themselves into renaissance men and women. So Freud, Jung, Adler, and the rest of em would have been quite literate in philosophy, which did not make it into modern clinical psychology curricula.
+
+All this to say, I don't mean to shade my therapist. I think my therapist is absolutely world-class. In fact, I mean to say that I think she is a sort of philosophy teacher herself. We just don't call it that. But therapy is about, as far as I can tell, learning to name your emotions as they come up, allow yourself to feel them (topic for another post), and then act in a way that is not driven or inhibited by your emotions; they're in the car with you, but they're not at the wheel. It is good they are there, they color your life, but they are not in control of it. Instead, some sense of you that is separate is in control of it. 
+
+Learning to think and act and feel this way is very hard and requires years of practice, feedback, teaching. That is part of the therapist's job. I'm sure there's more to it but let's pretend this is a signiciant portion of it. Well, that's just stoicism. Or Buddhism. I'm not qualified to speak about the specifics of these philosophies, but I think most people who know philosophy would agree there are parallels between the former paragraph and this one.
+
+Due to my illiteracy in the great thinkers, I'll refer to philosophical traditions that have wormed their way into my sessions as "being in the room". Out of sheepishness I may not capitalize them. I have felt existentialism in the room with us during our sessions. My therapist and I agree that I like to intellectualize. From my abnormal pysch class in college, I seem to recall intellectualization as being in a list named "maladaptic coping mechanisms". I think my therapist would like to see me intellectualize a bit less and feel a bit more. On the other hand, I feel that I am earnestly trying to apply the ideas and lessons from our sessions. I am trying to use the jargon (which she keeps to a minimum), think like a therapist, to understand myself. That seems like intellectualizing, but it also just seems like recalling what you studied during a test. It's just using knowledge I was supposed to absorb. 
+
+Here's where existentialism has entered the room. I recognize that overintellectualizing is a real confound on the road to self-adjusted-ness. There's the lawyer in the halfway house in Infinite Jest who tries to engage the faculty in endless rounds of logic puzzles, the solutions to which are that he does not really need to be there at the halfway house, that he couldn't possibly be a drug addict, and he's very annoying to everyone around him. But don't you need to intellectualize a little if you want to recognize old, maladaptive cognitive habits, and to consciously try to change them?  I think the difference between "ok" intellectualizing and overintellectualizing as being a matter of good vs bad faith.
+
+## Is psychotherapy a school of philosophy?
+And who wrote the definitive text? Has it not been written?
+
+Early on in my therapy, I asked my therapist what her plans were to scale these things up. The world is so very broken, and there are so many hurt people hurting people. It seemed irresponsible to limit the scale of this practice to people with insurance. I rather think it's the people without insurance who need this most.
+
+"Have you considered starting a cult?" I asked her. She knew my sense of humor, but I think she was authentically surprised. It seems pretty urgent: there's a ton of emotional damage out there, self-multiplying, and the people with the cure (ok not a cure but it helps) are sitting in rooms on comfy chairs stroking beards (another trope of philosophers; coincidence?!). She wasn't interested. "Ok, what about some kind of propoganda campaign?"
+
+I like to make serious points by joking but she never had a good answer for me. I am kind of worried.
+
+What she teaches does not understand itself to be a philosophy. It has elements of stoicism, buddhism (I regularly tell her point blank that something she just said to me is "straight up Buddhism, bruh"), existentialism, and probably a bunch of other stuff I don't know about. It's intriguing because it's mixed up with real science in a way that gives it an air of influencer-style self-help legitimacy ("Use this neuroscience hack to gain control of your emotions INSTANTLY), but in a way that feels legitimate, AND very cohesive, AND distinct from other forms of thinking. Like a philosophy.
