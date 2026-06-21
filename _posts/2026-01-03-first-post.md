@@ -1,3 +1,9 @@
+---
+title: "Therapists are philosophy coaches."
+layout: single
+---
+
+
 ## Therapists are philosophers
 Dialogue seems to have been important for Socrates. He used it to disseminate and teach ideas, and to allow for ideas to be interrogated completely. A few years into psychotherapy, I realized that my sessions were also, when they were at their best, also dialogues. That made them Socratic. In addition, that made my therapist a teacher of philosophy. Based on her reaction when I told her this, I could tell she did not agree with this characterization. Fair enough, I believe her academic background is in pyschology and psychotherapy. I don't think most grad programs teach philosophy to psychology students. Nonetheless, I am often astonished that the field of pyschology and psychotherapy is only a hundred years old in its current form, and it produces such long, accomplished professionals with legitimate careers and financial stability. 
 
