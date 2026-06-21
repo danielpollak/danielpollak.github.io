@@ -3,8 +3,6 @@ layout: home
 sidebar: true
 ---
 
-# Daniel Pollak
-
 PhD student in neuroscience at Caltech
 
 
@@ -16,4 +14,4 @@ I like to make things and talk about science. Apparently now I like to write.
 [Website](https://danpollak.com)
 
 
-© 2026 Daniel Pollak. All rights reserved.
+ <sub><sup>© 2026 Daniel Pollak. All rights reserved.</sub></sup>
