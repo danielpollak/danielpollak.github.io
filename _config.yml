@@ -14,3 +14,10 @@ defaults:
       layout: single
       sidebar:
         nav: "main"
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      sidebar:
+        nav: "main"
