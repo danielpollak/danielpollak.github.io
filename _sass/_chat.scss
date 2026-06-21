@@ -1,5 +1,5 @@
-.dialogue {
-  max-width: 1400px;
+.chat {
+  max-width: 800px;
   margin: 1rem auto;
 }
 
@@ -9,19 +9,20 @@
   border-radius: 16px;
   max-width: 75%;
   line-height: 1.4;
-  display: inline-block;
+  display: block;       /* ← was inline-block, that broke auto margins */
   word-wrap: break-word;
 }
 
-/* Left-side bubble (default) */
+/* Left-side bubble */
 .bubble.left {
-  background: #f1f1f1;
-  margin-right: auto;  /* pushes bubble to the left */
+  background: #e5e5ea;
+  margin-right: auto;
 }
 
-/* Right-side bubble (your speaker) */
+/* Right-side bubble */
 .bubble.right {
-  background: #cfe9ff;
-  margin-left: auto;   /* pushes bubble to the right */
-  text-align: left;    /* keeps text normal, not reversed */
+  background: #0b93f6;
+  color: white;         /* ← blue bubbles should have white text */
+  margin-left: auto;
+  text-align: left;
 }
