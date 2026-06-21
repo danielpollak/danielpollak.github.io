@@ -1,3 +1,8 @@
+---
+title: "Decision making neuroscience has little to do with decision making."
+layout: single
+---
+
 # Tangonogo
 
 ### Go/No-go + tango
