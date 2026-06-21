@@ -1,16 +1,18 @@
 ---
-title: "PhDs are apprenticeships."
+title: "Academia is a guild and PhDs are apprenticeships."
 layout: single
 ---
 
 
 # PhDs are apprenticeships
 
-Well-meaning family members ask me if I'm "studying hard" in my PhD. While studying is an enormous component of a PhD, I am always slightly bemused between the gap between what a PhD is an what they think it is. 
+Early on, extended family members used to ask me if I'm "studying hard" in my PhD. While studying is an enormous component of a PhD, I am always slightly bemused between the gap between what a PhD is an what they think it is. 
 
 After checking the wikipedia on apprenticeship, I feel comfortable with the analogy I've harbored for a while: it's not school. Studying isn't the point. Producing the products of a trade is the point.
 
-PhD programs are apprenticeships. They take about seven years, you spend most of your time learning to practice your trade (science) by learning on the job. Yes, you spend a lot of time learning things from books and papers and classes, but you don't graduate by going to classes and passing tests. In fact, as you progress, you take fewer and fewer classes. Instead, you're working towards your "journey
+PhD programs are apprenticeships. They take about seven years (I hope), you spend most of your time learning to practice your trade (science) by learning on the job. Yes, you spend a lot of time learning things from books and papers and classes, but you don't graduate by going to classes and passing tests. In fact, as you progress, you take fewer and fewer classes. Instead, you're working towards your journeyman status. The analogy works pretty well from there: after your PhD you embark on a wanderjahre where you go somewhere else to practice your trade, an expidition called a post-doctoral fellowship, or just postdoc. After your postdoc (which these days can take anywhere from 2-6 years or more), you can enroll as a master tradesperson, i.e., a professor.
+
+There are other ways in which academia functions as a guild. For example, guilds were operted by the masters, not the apprentices, so they  repressed collective bargaining. They were literal gatekeepers: you are not a <tradesperson/scientist> unless you operate with credentials from within this <guild/institution> and are not recognized unless you <pay guild fees to bloated guilds/pay publishing fees to bloated journals>.
 
 Looking at the wikipedia page for apprenticeships (https://en.wikipedia.org/wiki/Apprenticeship), a few more analogies come to mind:
 1. PhD students sign contracts, as have apprentices for millenia
