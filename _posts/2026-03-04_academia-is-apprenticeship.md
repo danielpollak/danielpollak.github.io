@@ -1,3 +1,9 @@
+---
+title: "PhDs are apprenticeships."
+layout: single
+---
+
+
 # PhDs are apprenticeships
 
 Well-meaning family members ask me if I'm "studying hard" in my PhD. While studying is an enormous component of a PhD, I am always slightly bemused between the gap between what a PhD is an what they think it is. 
