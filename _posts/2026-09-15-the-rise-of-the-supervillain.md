@@ -1,3 +1,9 @@
+---
+title: "Supervillains, youknight!"
+layout: single
+published: false
+---
+
 ## You'll never get away with this!
 In superhero movies, you have a supervillain whose villainy is usually characterized by some form of misanthropy. Perhaps they want to take over the world. Perhaps they want to destroy humanity. Overall, superhero films take on a philosophical question underlying all ethics: why is humanity good? Why not destroy or enslave everyone? It's not about nihilism, though it's often packaged as such. The villain has come to the conclusion that the perseverance of the human race is merely subordinate to the supervillain's  goals. 
 
