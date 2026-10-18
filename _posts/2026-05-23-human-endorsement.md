@@ -1,6 +1,7 @@
 ---
 title: "Human endorsement"
 layout: single
+published: false
 ---
 
 To whom it may concern, I am writing to enthusiastically endorse being human for admission into the Neurobiology and CNS options of the Department of Biology and Biological Engineering at Caltech. Being human has established itself as having an excellent reputation over the course of hundreds of thousands of years, and in many other departments at Caltech, by establishing 1) frequent, 2) meaningful, and 3) diverse interactions between colleagues. Here is why I believe NB and CNS would benefit from being human. 
